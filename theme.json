@@ -3,10 +3,16 @@
   "description": "This theme includes element styles with icons for each of the Azure services, based upon the Microsoft Azure icon set (https://docs.microsoft.com/en-us/azure/architecture/icons/).",
   "elements": [
       {
-          "tag": "Microsoft Azure - Container Apps Environments",
-          "stroke": "#9869eb",
-          "color": "#9869eb",
-          "icon": "https://github.com/phagedorn/structurizr-theme/blob/main/icons/02989-icon-service-Container-Apps-Environments.png"
+        "tag": "SAP - SF",
+        "stroke": "#9869eb",
+        "color": "#9869eb",
+        "icon": "https://github.com/phagedorn/structurizr-theme/blob/main/icons//Users/phagedorn/src/structurizr-theme/icons/sap-sf.jpeg"
+      },
+      {
+        "tag": "Microsoft Azure - Container Apps Environments",
+        "stroke": "#9869eb",
+        "color": "#9869eb",
+        "icon": "https://github.com/phagedorn/structurizr-theme/blob/main/icons/02989-icon-service-Container-Apps-Environments.png"
       },
       {
           "tag": "Microsoft Azure - Controls Horizontal",
