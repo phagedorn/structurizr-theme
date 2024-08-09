@@ -4,7 +4,7 @@
   "elements": [
       {
         "tag": "SAP-SF",
-        "icon": "https://github.com/phagedorn/structurizr-theme/blob/main/icons//Users/phagedorn/src/structurizr-theme/icons/sap-sf.jpeg"
+        "icon": "https://github.com/phagedorn/structurizr-theme/blob/main/icons//Users/phagedorn/src/structurizr-theme/icons/sap-sf.png"
       },
       {
           "tag": "Microsoft Azure - Container Apps Environments",
