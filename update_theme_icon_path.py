@@ -5,7 +5,7 @@ with open('theme.json', 'r') as file:
     data = json.load(file)
 
 # Define the base URL to be added
-base_url = "https://github.com/phagedorn/structurizr-theme/blob/main/icons/"
+base_url = "https://raw.githubusercontent.com/phagedorn/structurizr-theme/main/icons/"
 
 # Update the icon paths with the base URL
 for element in data.get("elements", []):
